@@ -26,7 +26,7 @@ yarn-error.log*
 *.bak
 *.old
 
-# Historical Iteration Snapshots & Archives (v1 - v280)
+# Historical Iteration Snapshots & Archives (v1 - v288)
 01-100/
 101-200/
 201-210/
@@ -41,12 +41,7 @@ archive/
 scratch/
 X-New Ui-X/
 
-# Intermediate milestone draft iterations
-281_*.html
-282_*.html
-283_*.html
-284_*.html
-285_*.html
-286_*.html
-287_*.html
+# Intermediate milestone draft iterations & scratch files
+28*.html
 cgpa-ticket.html
+sw.js
